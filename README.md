@@ -8,4 +8,4 @@
 ## 第一天
 迈出了学习GitHub的第一步
 
-！[我爱的女人](835ce84ba576d37ace2b7a3d898e6f2b228d4bab.jpg)
+![我爱的女人](835ce84ba576d37ace2b7a3d898e6f2b228d4bab.jpg)
